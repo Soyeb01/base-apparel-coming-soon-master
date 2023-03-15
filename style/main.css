@@ -164,6 +164,10 @@
   .get input[type=email]::placeholder {
     font-size: 14px;
   }
+  .get #inval {
+    font-size: 12px;
+    margin: 10px 0 0;
+  }
   .get .icon {
     gap: 20px;
   }
